@@ -1,0 +1,1 @@
+import type { Day, Memory, Sponsors } from 'type.ts';
